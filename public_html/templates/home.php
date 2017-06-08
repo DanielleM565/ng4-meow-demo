@@ -1,3 +1,5 @@
+<meow-navbar></meow-navbar>
+
 <h1>Home Template</h1>
 
 <main class="bg p-t-nav">
